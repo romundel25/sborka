@@ -21,6 +21,6 @@
   "dependencies": {
     "autoprefixer": "^9.8.4",
     "postcss-loader": "^3.0.0",
-    "pug": "^3.0.0"
+    "pug": "^3.0.1"
   }
 }
