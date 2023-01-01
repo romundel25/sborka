@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "autoprefixer": "^9.8.4",
-    "postcss-loader": "^3.0.0",
+    "postcss-loader": "^7.0.2",
     "pug": "^3.0.0"
   }
 }
